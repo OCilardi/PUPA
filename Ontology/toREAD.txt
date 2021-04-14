@@ -1,0 +1,1 @@
+In questa cartella sono presenti i file in formato CSV contententi la tassonomia per la categoria cibo e abbigliamento.
