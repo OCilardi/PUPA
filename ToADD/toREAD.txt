@@ -1,1 +1,0 @@
-In questa cartella è presente un file in formato CSV per il salvataggio delle features non presenti in nessuno dei file contenenti i label per ogni categoria.
