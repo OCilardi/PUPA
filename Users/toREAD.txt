@@ -1,1 +1,0 @@
-In questa cartella sono presenti le cartelle di ogni utente profilato contenenti le immagini usate per la profilazione; queste sono identificate da nome e data in cui si è effettuata la profilazione.
