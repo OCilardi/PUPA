@@ -1,1 +1,0 @@
-In questa cartella sono presenti i file in formato JSON per ogni utente profilato identificati dallo username usato su instagram.
