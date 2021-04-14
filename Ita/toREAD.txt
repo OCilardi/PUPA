@@ -1,1 +1,0 @@
-In questa cartella sono presenti i file in formato CSV contententi i labal per le singole categori in italiano.
